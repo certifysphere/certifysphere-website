@@ -1,0 +1,15 @@
+<svg width="180" height="50" viewBox="0 0 180 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Horizontal version with more space -->
+  <g id="certifysphere-horizontal">
+    <!-- Icon/Symbol -->
+    <circle cx="25" cy="25" r="20" fill="none" stroke="#264653" stroke-width="2"/>
+    <circle cx="25" cy="25" r="12" fill="#2A9D8F" opacity="0.2"/>
+    <path d="M18 25 L22 29 L32 19" stroke="#264653" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <circle cx="35" cy="15" r="5" fill="#E9C46A"/>
+    <text x="35" y="19" text-anchor="middle" font-family="Inter, sans-serif" font-size="8" font-weight="bold" fill="#264653">✓</text>
+    
+    <!-- Text -->
+    <text x="60" y="22" font-family="Inter, sans-serif" font-size="16" font-weight="700" fill="#264653">CertifySphere</text>
+    <text x="60" y="36" font-family="Inter, sans-serif" font-size="10" font-weight="400" fill="#4A5568">AI-Driven Software Products</text>
+  </g>
+</svg>
