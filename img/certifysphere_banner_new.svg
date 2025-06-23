@@ -1,0 +1,20 @@
+<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Banner version for contact page and social media -->
+  <rect width="400" height="100" fill="#F7FAFC"/>
+  
+  <!-- Large icon -->
+  <circle cx="80" cy="50" r="35" fill="none" stroke="#264653" stroke-width="3"/>
+  <circle cx="80" cy="50" r="22" fill="#2A9D8F" opacity="0.2"/>
+  <path d="M68 50 L75 57 L92 40" stroke="#264653" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="100" cy="30" r="8" fill="#E9C46A"/>
+  <text x="100" y="36" text-anchor="middle" font-family="Inter, sans-serif" font-size="12" font-weight="bold" fill="#264653">✓</text>
+  
+  <!-- Company name and tagline -->
+  <text x="140" y="45" font-family="Inter, sans-serif" font-size="28" font-weight="700" fill="#264653">CertifySphere</text>
+  <text x="140" y="65" font-family="Inter, sans-serif" font-size="16" font-weight="400" fill="#4A5568">AI-Driven Software Products</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="350" cy="25" r="3" fill="#E9C46A" opacity="0.6"/>
+  <circle cx="370" cy="35" r="2" fill="#2A9D8F" opacity="0.4"/>
+  <circle cx="360" cy="75" r="4" fill="#264653" opacity="0.3"/>
+</svg>

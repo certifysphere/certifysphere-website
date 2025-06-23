@@ -1,0 +1,25 @@
+<svg width="120  <!-- Text -->
+  <g id="certifysphere-text">
+    <text x="44" y="16" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#264653">CertifySphere</text>
+    <text x="44" y="28" font-family="Inter, sans-serif" font-size="7" font-weight="400" fill="#4A5568">AI-Driven Products</text>
+  </g>ght="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon/Symbol -->
+  <g id="certifysphere-icon">
+    <!-- Outer sphere -->
+    <circle cx="20" cy="20" r="16" fill="none" stroke="#264653" stroke-width="2"/>
+    
+    <!-- Inner certification checkmark -->
+    <circle cx="20" cy="20" r="10" fill="#2A9D8F" opacity="0.2"/>
+    <path d="M15 20 L18 23 L25 16" stroke="#264653" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    
+    <!-- Certification badge -->
+    <circle cx="28" cy="12" r="4" fill="#E9C46A"/>
+    <text x="28" y="15" text-anchor="middle" font-family="Inter, sans-serif" font-size="6" font-weight="bold" fill="#264653">✓</text>
+  </g>
+  
+  <!-- Text -->
+  <g id="certifysphere-text">
+    <text x="44" y="16" font-family="Inter, sans-serif" font-size="11" font-weight="700" fill="#264653">CertifySphere</text>
+    <text x="44" y="28" font-family="Inter, sans-serif" font-size="7" font-weight="400" fill="#4A5568">AI-Powered Consulting</text>
+  </g>
+</svg>
